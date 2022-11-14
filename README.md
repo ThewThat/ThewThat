@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Portfolio design
+
+tailwindcomponents 
+
+<img width="1244" alt="Screenshot 2565-11-14 at 13 49 20" src="https://user-images.githubusercontent.com/66944140/201593904-6c00f491-0fe8-4d75-b382-9c6ae7586023.png">
+
+https://tailwindcomponents.com/component/battery-with-tailwind-css
