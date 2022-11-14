@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 
 ### Portfolio design
 
-tailwindcomponents 
-
 <img width="1244" alt="Screenshot 2565-11-14 at 13 49 20" src="https://user-images.githubusercontent.com/66944140/201593904-6c00f491-0fe8-4d75-b382-9c6ae7586023.png">
 
 https://tailwindcomponents.com/component/battery-with-tailwind-css
+
+
+<img width="715" alt="Screenshot 2565-11-14 at 15 12 40" src="https://user-images.githubusercontent.com/66944140/201608511-f83002c1-6ec1-4da7-8fb0-f1bb9ca7fb92.png">
+
+
+https://tailwindcomponents.com/component/task-cards
